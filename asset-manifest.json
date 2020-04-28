@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/manansuhail/React-in-github-demo/static/css/main.4fb409fb.chunk.css",
+    "main.js": "/manansuhail/React-in-github-demo/static/js/main.0889bedf.chunk.js",
+    "main.js.map": "/manansuhail/React-in-github-demo/static/js/main.0889bedf.chunk.js.map",
+    "runtime-main.js": "/manansuhail/React-in-github-demo/static/js/runtime-main.7b686c65.js",
+    "runtime-main.js.map": "/manansuhail/React-in-github-demo/static/js/runtime-main.7b686c65.js.map",
+    "static/js/2.044d0b9a.chunk.js": "/manansuhail/React-in-github-demo/static/js/2.044d0b9a.chunk.js",
+    "static/js/2.044d0b9a.chunk.js.map": "/manansuhail/React-in-github-demo/static/js/2.044d0b9a.chunk.js.map",
+    "index.html": "/manansuhail/React-in-github-demo/index.html",
+    "precache-manifest.4ef11c5f4eda04e1b00e3c92dcc1db1f.js": "/manansuhail/React-in-github-demo/precache-manifest.4ef11c5f4eda04e1b00e3c92dcc1db1f.js",
+    "service-worker.js": "/manansuhail/React-in-github-demo/service-worker.js",
+    "static/css/main.4fb409fb.chunk.css.map": "/manansuhail/React-in-github-demo/static/css/main.4fb409fb.chunk.css.map",
+    "static/js/2.044d0b9a.chunk.js.LICENSE.txt": "/manansuhail/React-in-github-demo/static/js/2.044d0b9a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b686c65.js",
+    "static/js/2.044d0b9a.chunk.js",
+    "static/css/main.4fb409fb.chunk.css",
+    "static/js/main.0889bedf.chunk.js"
+  ]
+}
